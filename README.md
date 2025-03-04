@@ -1,4 +1,4 @@
-# mautrix-signal
+# matrix-signal-discord-ally
 ![Languages](https://img.shields.io/github/languages/top/mautrix/signal.svg)
 [![License](https://img.shields.io/github/license/mautrix/signal.svg)](LICENSE)
 [![GitLab CI](https://mau.dev/mautrix/signal/badges/main/pipeline.svg)](https://mau.dev/mautrix/signal/container_registry)
